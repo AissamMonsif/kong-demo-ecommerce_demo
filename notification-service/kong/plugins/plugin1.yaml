@@ -1,0 +1,5 @@
+name: plugin1
+route: get-users
+config:
+  second: 5
+  policy: local
