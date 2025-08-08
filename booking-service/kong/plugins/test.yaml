@@ -1,0 +1,5 @@
+name: test
+route: get-users-booking-service
+config:
+  second: 5
+  policy: local
